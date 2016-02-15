@@ -1,0 +1,7 @@
+---
+
+sshd:
+  X11Forwarding: no
+  PasswordAuthentication: no
+  PermitRootLogin: no
+  AllowUsers: lbischof
